@@ -1,0 +1,9 @@
+import numpy as np
+import math
+n=int(input("Enter a number"))
+numbers=np.arange(n).reshape(n,1)
+b=numbers>89
+if n<89:
+    print("No Such Numbers Found")
+else:
+    print(numbers[b])
