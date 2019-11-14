@@ -1,18 +1,12 @@
 import numpy as np
-x=np.array([[1,2],[3,4]], dtype=np.float64)
-y= np.array([[5,6],[7,8]], dtype=np.float64)
-print("\n",x)
-print("\n",y)
-# print("\n",x-y)
-# print("\n",x*y)
-# print("\n",x/y)
-num1=np.add(x,y)
-print("\n",num1)
-num2=np.subtract(x,y)
-print("\n",num2)
-num3=np.divide(x,y)
-print("\n",num3)
-num4=np.dot(x,y)
-print("\n",num4)
-num5=np.inner(x, y)
-print("\n",num5)
+
+numbers_=[[687,68,34],[89,77,82],[556,99,92]]
+# np.array(numbers_)
+numbers_=np.array(numbers_)
+n1=numbers_.ndim
+print("\n",n1)
+n2=numbers_.size
+print("\n",n2)
+n3=numbers_.dtype
+print("\n",n3)
+
