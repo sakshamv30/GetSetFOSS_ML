@@ -11,6 +11,6 @@ link: https://www.python.org/downloads/
 # How to participate
 There are a number of issues opened for participants to solve marked as:
 
-### Very Easy,Easy, Medium, Hard and Pro
+### Very Easy,Easy, Medium, Hard and Pro and the Codeburst.
 
 Whenever a PR to an issue gets merged, the contributor will get the points according to the label attached.
