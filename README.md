@@ -2,11 +2,11 @@
 This repository is dedicated to the introduction to the python libraries used for machine learning and scientific computing.
 This is for all the machine learning enthusiasts and future data scientist.
 
-It is organised and maintained by the following members of the <b>ML Wing, Axios-</br>
+It is organised and maintained by the following members of the <b>ML Wing, Axios-
 
 [Saakshi Jain](https://github.com/sa4k5hi) <br />
 [Saksham Varshney](https://github.com/sakshamv30)
-
+<b />
 
 # Prerequisite for this repository
 1)Install Python3 on your local system from the official site.
